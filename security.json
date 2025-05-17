@@ -1,0 +1,10 @@
+{
+  "owners": ["62895410790928"],
+  "admins": ["62895410790928"],
+  "banned": ["62895410790928"],
+  "featuresAccess": {
+    "adddb": ["owners"],
+    "deletedb": ["owners", "admins"],
+    "ban": ["owners", "admins"]
+  }
+}
